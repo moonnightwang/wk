@@ -1,7 +1,6 @@
-* [更新日志](CHANGELOG.md)
-* 快速跳转
-  * [docsify-note](https://mgang.gitee.io/docsify-note/)
-  * [GitHub](https://github.com/mg0324/)
-  * [Gitee](https://gitee.com/mgang)
-  * [CSDN](https://blog.csdn.net/mg0324)
-  * [我的博客](http://mg.meiflower.top/mb/)
+* [网站如何使用](CHANGELOG.md)
+* [阿明网盘](https://wp.haoruan.cc/)
+* 其他
+  * [个人主页](https://aminggoodboy.gitee.io/)
+  * [联系方式](https://support.qq.com/products/411304/blog/744548)
+  * [留言板](https://support.qq.com/product/411304)
