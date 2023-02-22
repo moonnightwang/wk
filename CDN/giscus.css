@@ -1,0 +1,10 @@
+.giscus{
+    width:100% !important;
+    padding: 5px;
+    min-height: 200px;
+}
+.giscus iframe{
+    width:100% !important;
+    border:0px;
+    min-height: 200px;
+}
