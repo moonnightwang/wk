@@ -9,6 +9,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="renderer" content="webkit">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+      <!-- 设置浏览器图标 -->
+      <link rel="icon" href="https://i0.hdslb.com/bfs/album/834c3677c3150769231a558222cb3c4f625e156d.jpg" type="image/x-icon" />
+      <link rel="shortcut icon" href="https://i0.hdslb.com/bfs/album/834c3677c3150769231a558222cb3c4f625e156d.jpg" type="image/x-icon" />
   <style>
     :root {
       --docsifytabs-border-color: #ededed;
@@ -38,7 +41,6 @@
   <script>
     window.$docsify = {
       name: '阿明好软',
-      logo: 'https://i0.hdslb.com/bfs/album/834c3677c3150769231a558222cb3c4f625e156d.jpg',
       coverpage: false,
       loadNavbar: true,
       loadSidebar: true,
@@ -59,7 +61,7 @@
       },
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
+        paths: 'auto', // or 'auto'
         placeholder: '开始搜索',
         noData: '啥也没有!'
       },
